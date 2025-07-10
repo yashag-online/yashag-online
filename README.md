@@ -2,49 +2,42 @@
 
 **Full stack developer | Tech Consultant | Digital Strategist**
 
-I help businesses use the latest technologies to improve workflows, build smarter systems, and grow faster.  
-From building websites to setting up automation, I focus on clear, useful, and future-ready solutions.
+I build websites, software tools, and help businesses integrate the latest technology.
+My focus is on creating scalable and reliable systems that solve real problems.
+Explore my work at [**yash-ag.com**](https://yash-ag.com)
 
 ---
 
-### 🚀 What I Do
+### 💼 What I Do
 
-- Build modern, user-friendly websites using **React**, **Next.js**, and **Tailwind CSS**
-- Design and develop full-stack applications with **Node.js**, **MongoDB**, and **Express**
-- Help teams work smarter using **automation**, **cloud tools**, and **AI workflows**
-- Share tech tips, tutorials, and workflow ideas for digital growth
-- Advise businesses on choosing the right tools for better efficiency and impact
-
----
-
-### 🛤️ My Journey
-
-My curiosity started in school, where I loved chess, business, and tech.  
-I was always interested in how things work behind the scenes.  
-After college, I chose to pursue this path professionally—starting as a **UX Designer**, then transitioning into **Software Engineering**.
-
-Today, I combine design thinking, coding, and strategy to help brands simplify their tech and scale their impact.
+* I design and build complete digital systems—from websites to internal tools—tailored to business needs.
+* I mostly work with **JavaScript** and **TypeScript** along with their modern frameworks and libraries.
+* I’m flexible with tech stacks and choose the right tools based on project requirements, not trends.
+* I help businesses automate processes, improve workflow efficiency, and adopt modern digital practices.
+* I provide technical consulting to align tech decisions with long-term goals.
 
 ---
 
-### 🧰 Tech Stack
+### 🌱 What I’m Exploring
 
-Languages:    JavaScript · TypeScript · HTML · CSS
-Frontend:     React.js · Next.js · Tailwind CSS · Remix
-Backend:      Node.js · Express.js · MongoDB · REST APIs
-Tools & DevOps: Git · GitHub · Docker · Kubernetes · Cloud Tools
-Other:        UX Design · Automation · AI Tools · Productivity Systems
+* Artificial Intelligence: building smarter solutions and integrating AI tools into everyday systems.
+* Cloud Computing: deploying scalable, maintainable infrastructure for modern applications.
 
 ---
 
-You can explore all my work, services, and content at:
-🔗 [**yashag.tech**](https://www.yashag.tech)
+### 🧭 Background
+
+My journey into tech started early, driven by curiosity and a desire to understand how things work behind the scenes.
+Over time, I transitioned from design to development and now work across both frontend and backend.
+This blend of design thinking and engineering allows me to approach problems with clarity and build meaningful solutions.
 
 ---
 
-### 💬 Let’s Connect
+### 🌐 Let’s Connect
 
-If you're looking to simplify your tech, scale your business, or need help choosing the right tools — you’re in the right place.
+If you’re looking to build, improve, or rethink how your tech works—I’d be glad to collaborate.
 
-📫 Reach out or follow my work:
-[LinkedIn](https://www.linkedin.com/in/yashagrawal0410/) | [GitHub](https://github.com/yashag-online) | [Portfolio](https://www.yashag.tech)
+* 🔗 Website: [**yash-ag.com**](https://yash-ag.com)
+* 💼 LinkedIn: [**linkedin.com/in/yash-ag-online/**](https://www.linkedin.com/in/yash-ag-online/)
+* 📸 Instagram: [**@yash\_ag\_online**](https://www.instagram.com/yash_ag_online/)
+* 🐦 Twitter (X): [**@yash\_ag\_online**](https://x.com/yash_ag_online)
